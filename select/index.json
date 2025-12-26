@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Feather Heartache",
+  "base_artist": "羽風薫(CV.細貝圭)、あんさんぶるスターズ！！",
+  "createdAt": "2025-12-26T04:13:38.118806Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Feather Heartache",
+      "artist": "羽風薫",
+      "has_synced": true,
+      "path": "select/01_Feather_Heartache_羽風薫.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Feather Heartache",
+      "artist": "羽風薫(CV.細貝圭)",
+      "has_synced": true,
+      "path": "select/02_Feather_Heartache_羽風薫(CV.細貝圭).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Feather Heartache",
+      "artist": "羽風薫(CV.細貝圭)",
+      "has_synced": false,
+      "path": "select/03_Feather_Heartache_羽風薫(CV.細貝圭).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Feather Heartache",
+      "artist": "羽風 薫(CV.細貝 圭)",
+      "has_synced": false,
+      "path": "select/pl_01_Feather_Heartache_羽風_薫(CV.細貝_圭).txt"
+    }
+  ]
+}
